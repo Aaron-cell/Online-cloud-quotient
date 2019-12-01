@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [01/Aug/2019:15:18:41 +0800] "GET /order/order-cart.html HTTP/1.1" 302 - http-bio-8082-exec-5 17
+0:0:0:0:0:0:0:1 - - [01/Aug/2019:15:18:58 +0800] "GET /order/order-cart.html HTTP/1.1" 200 25744 http-bio-8082-exec-5 19

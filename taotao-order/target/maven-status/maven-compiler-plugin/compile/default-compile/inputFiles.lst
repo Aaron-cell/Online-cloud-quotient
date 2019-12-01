@@ -1,0 +1,7 @@
+F:\java\eclipse文件夹\taotao-order\src\main\java\com\taotao\order\service\OrderService.java
+F:\java\eclipse文件夹\taotao-order\src\main\java\com\taotao\order\pojo\Order.java
+F:\java\eclipse文件夹\taotao-order\src\main\java\com\taotao\order\dao\impl\JedisClientSingle.java
+F:\java\eclipse文件夹\taotao-order\src\main\java\com\taotao\order\dao\JedisClient.java
+F:\java\eclipse文件夹\taotao-order\src\main\java\com\taotao\order\dao\impl\JedisClientCluster.java
+F:\java\eclipse文件夹\taotao-order\src\main\java\com\taotao\order\service\impl\OrderServiceImpl.java
+F:\java\eclipse文件夹\taotao-order\src\main\java\com\taotao\order\controller\OrderController.java
