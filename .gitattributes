@@ -1,4 +1,4 @@
 # Online-cloud-quotient
-    *.js linguist-language=java
+    *linguist-language=java
     *.css linguist-language=java
     *.html linguist-language=java
